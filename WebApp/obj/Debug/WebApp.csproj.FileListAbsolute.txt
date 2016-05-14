@@ -15,6 +15,8 @@ C:\projects\MT\WebApp\bin\WebApp.dll.config
 C:\projects\MT\WebApp\bin\WebApp.dll
 C:\projects\MT\WebApp\bin\WebApp.pdb
 C:\projects\MT\WebApp\bin\Antlr3.Runtime.dll
+C:\projects\MT\WebApp\bin\EntityFramework.dll
+C:\projects\MT\WebApp\bin\EntityFramework.SqlServer.dll
 C:\projects\MT\WebApp\bin\Microsoft.AI.Agent.Intercept.dll
 C:\projects\MT\WebApp\bin\Microsoft.AI.DependencyCollector.dll
 C:\projects\MT\WebApp\bin\Microsoft.AI.PerfCounterCollector.dll
@@ -36,6 +38,8 @@ C:\projects\MT\WebApp\bin\System.Web.WebPages.Deployment.dll
 C:\projects\MT\WebApp\bin\System.Web.WebPages.dll
 C:\projects\MT\WebApp\bin\System.Web.WebPages.Razor.dll
 C:\projects\MT\WebApp\bin\WebGrease.dll
+C:\projects\MT\WebApp\bin\EntityFramework.xml
+C:\projects\MT\WebApp\bin\EntityFramework.SqlServer.xml
 C:\projects\MT\WebApp\bin\Microsoft.AI.DependencyCollector.xml
 C:\projects\MT\WebApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
 C:\projects\MT\WebApp\bin\Microsoft.AI.Web.xml
@@ -54,6 +58,8 @@ C:\projects\MT\WebApp\bin\Newtonsoft.Json.xml
 C:\projects\MT\WebApp\bin\System.Net.Http.Formatting.xml
 C:\projects\MT\WebApp\bin\System.Web.Http.xml
 C:\projects\MT\WebApp\bin\System.Web.Http.WebHost.xml
-C:\projects\MT\WebApp\obj\Debug\WebApp.csprojResolveAssemblyReference.cache
+C:\projects\MT\WebApp\obj\Debug\WebApp.Migrations.InitialCreate.resources
+C:\projects\MT\WebApp\obj\Debug\WebApp.Migrations.addspeakersandsessions.resources
+C:\projects\MT\WebApp\obj\Debug\WebApp.csproj.GenerateResource.Cache
 C:\projects\MT\WebApp\obj\Debug\WebApp.dll
 C:\projects\MT\WebApp\obj\Debug\WebApp.pdb
